@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fitchef4u-react/static/css/main.beb73e9a.css",
+    "main.js": "/fitchef4u-react/static/js/main.af203283.js",
+    "static/js/453.37135cb4.chunk.js": "/fitchef4u-react/static/js/453.37135cb4.chunk.js",
+    "index.html": "/fitchef4u-react/index.html",
+    "main.beb73e9a.css.map": "/fitchef4u-react/static/css/main.beb73e9a.css.map",
+    "main.af203283.js.map": "/fitchef4u-react/static/js/main.af203283.js.map",
+    "453.37135cb4.chunk.js.map": "/fitchef4u-react/static/js/453.37135cb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb73e9a.css",
+    "static/js/main.af203283.js"
+  ]
+}

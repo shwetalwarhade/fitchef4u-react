@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fit/static/css/main.beb73e9a.css",
-    "main.js": "/fit/static/js/main.fca40154.js",
-    "static/js/453.37135cb4.chunk.js": "/fit/static/js/453.37135cb4.chunk.js",
-    "index.html": "/fit/index.html",
-    "main.beb73e9a.css.map": "/fit/static/css/main.beb73e9a.css.map",
-    "main.fca40154.js.map": "/fit/static/js/main.fca40154.js.map",
-    "453.37135cb4.chunk.js.map": "/fit/static/js/453.37135cb4.chunk.js.map"
+    "main.css": "/fitchef4u-react%20%20%20/static/css/main.beb73e9a.css",
+    "main.js": "/fitchef4u-react%20%20%20/static/js/main.e7cc5a98.js",
+    "static/js/453.37135cb4.chunk.js": "/fitchef4u-react%20%20%20/static/js/453.37135cb4.chunk.js",
+    "index.html": "/fitchef4u-react%20%20%20/index.html",
+    "main.beb73e9a.css.map": "/fitchef4u-react%20%20%20/static/css/main.beb73e9a.css.map",
+    "main.e7cc5a98.js.map": "/fitchef4u-react%20%20%20/static/js/main.e7cc5a98.js.map",
+    "453.37135cb4.chunk.js.map": "/fitchef4u-react%20%20%20/static/js/453.37135cb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.beb73e9a.css",
-    "static/js/main.fca40154.js"
+    "static/js/main.e7cc5a98.js"
   ]
 }
